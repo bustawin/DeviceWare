@@ -22,7 +22,7 @@ pyexcel-xlsx==0.4.1
 pymongo==3.4.0
 pydash==4.1.0
 python-gnupg==0.3.9
-requests==2.18.2
+requests==2.32.2
 shortid==0.1.2
 simplejson==3.11.1
 validators==0.12.0
