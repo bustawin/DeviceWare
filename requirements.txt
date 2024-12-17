@@ -8,7 +8,7 @@ Cerberus==0.9.2
 Eve==0.7.4
 Flask==0.11.0
 Flask-Caching==1.2.0
-Flask-Cors==3.0.3
+Flask-Cors==4.0.2
 Flask-Excel==0.0.7
 Flask-PyMongo==0.5.1
 geoip2==2.5.0
