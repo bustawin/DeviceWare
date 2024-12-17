@@ -48,7 +48,7 @@ setup(
     install_requires=[
         'inflection>=0.3.1',
         'eve>=0.6.3,<0.8',
-        'werkzeug>=0.9.4,<=0.11.15',
+        'werkzeug>=0.9.4,<=3.0.6',
         'flask>=0.11,<0.12',  # eve < 0.8 breaks with flask 0.12
         'passlib>=1.6.5,<2.0',
         'validators>=0.10,<0.20',
