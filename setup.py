@@ -49,7 +49,7 @@ setup(
         'inflection>=0.3.1',
         'eve>=0.6.3,<0.8',
         'werkzeug>=0.9.4,<=0.11.15',
-        'flask>=0.11,<0.12',  # eve < 0.8 breaks with flask 0.12
+        'flask>=0.11,<2.3',  # eve < 0.8 breaks with flask 0.12
         'passlib>=1.6.5,<2.0',
         'validators>=0.10,<0.20',
         'requests>=2.9.1,<3.0',
