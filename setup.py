@@ -67,7 +67,7 @@ setup(
         'geojson_utils',
         'geojson>=1.3.4,<1.4',
         'geoip2>=2.4.2,<3',
-        'flask-cors>=3.0.2,<4',
+        'flask-cors>=3.0.2,<5',
         'shortid>=0.1.2,<0.2',
         'beautifulsoup4>=4.6,<5',
         'wikipedia>=1.4,<2',
