@@ -19,7 +19,7 @@ pyexcel-io==0.4.2
 pyexcel-ods==0.4.0
 pyexcel-webio==0.1.2
 pyexcel-xlsx==0.4.1
-pymongo==3.4.0
+pymongo==4.6.3
 pydash==4.1.0
 python-gnupg==0.3.9
 requests==2.18.2
